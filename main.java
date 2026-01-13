@@ -1,4 +1,4 @@
-package empresa;
+package media-avaliacao;
 
 public class main{
 
