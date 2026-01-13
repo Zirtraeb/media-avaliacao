@@ -1,6 +1,6 @@
-package empresa;
+package media-avaliacao;
 
-public class alunoAvaliacao {
+public class AlunoAvaliacao {
 	
 	double nota1,nota2,nota3;
 	
