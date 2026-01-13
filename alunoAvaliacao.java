@@ -1,10 +1,10 @@
 package empresa;
 
-public class AlunoAvaliacao {
+public class alunoAvaliacao {
 	
 	double nota1,nota2,nota3;
 	
-	AlunoAvaliacao(){} //Para construir sem passagem de parâmetros, é necessário criar um construtor vazio.
+	AlunoAvaliacao(){}
 	
 	AlunoAvaliacao(double nota1, double nota2, double nota3){
 		this.nota1 = nota1;
